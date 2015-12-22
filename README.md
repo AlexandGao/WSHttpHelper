@@ -1,3 +1,4 @@
+http://git.oschina.net/wolfsmoke/WSHttpHelper
 轻量级Http请求框架。清晰明了的请求接口描述，灵活的扩展机制。
 快捷接口：
 支持同步调用;
